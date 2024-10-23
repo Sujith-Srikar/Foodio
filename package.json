@@ -1,5 +1,4 @@
 {
-  "homepage": "https://sujith-srikar.github.io/foodio",
   "name": "foodio",
   "version": "0.1.0",
   "private": true,
@@ -25,8 +24,6 @@
   },
   "scripts": {
     "start": "vite",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
     "build": "vite build",
     "serve": "vite preview"
   },
