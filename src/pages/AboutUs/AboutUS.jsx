@@ -6,7 +6,7 @@ import { Text, Heading, Button, Img, RatingBar } from "../../components";
 function AboutUS() {
   return (
     <>
-      <div className="flex flex-col items-center justify-start w-full pt-[50px] gap-[105px] bg-gray-50">
+      <div className="flex flex-col items-center justify-start w-full pt-[50px] gap-[105px] bg-gray-50 p-8">
         <div className="flex flex-col items-center justify-start w-full gap-[78px] max-w-[1300px]">
           <Header />
           {/* About-Us First Section */}
